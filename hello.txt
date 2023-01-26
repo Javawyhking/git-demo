@@ -1,8 +1,11 @@
 hello wyh! hello Git! 22222
 hello wyh! hello Git! 33333
+<<<<<<< HEAD
 hello wyh! hello Git! wyh
 hello wyh! hello Git! qioujiayi
-hello wyh! hello Git! qioujiayi
+=======
+hello wyh! hello Git! zhuoyaqi
+>>>>>>> hot-fix
 hello wyh! hello Git! wyh
 hello wyh! hello Git!
 hello wyh! hello Git!
